@@ -1,2 +1,2 @@
 # wordpress
-Temas desenvolvidos
+Temas desenvolvidos em wordpress separados por clientes
