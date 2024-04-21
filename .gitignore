@@ -17,6 +17,8 @@
 /wp-*.php
 /xmlrpc.php
 
+.github/workflows/deploy.yml
+
 # Configuration
 wp-config.php
 
